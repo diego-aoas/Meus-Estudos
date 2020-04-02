@@ -1,3 +1,3 @@
 # Meus Estudos
 
-Python
+JavaScript
